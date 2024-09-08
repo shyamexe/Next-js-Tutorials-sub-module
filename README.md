@@ -49,7 +49,6 @@ This repository contains a series of tutorials on Next.js, organized into four s
 <details>
 <summary>  Topics Covered: </summary>
 
-- **Topics Covered:**
   - Route Handlers
   - Handling GET Requests
   - Handling POST Requests
@@ -93,7 +92,6 @@ This repository contains a series of tutorials on Next.js, organized into four s
 
 <summary>  Topics Covered: </summary>
 
-- **Topics Covered:**
   - Fetching Data with Server Components
   - Loading and Error States
   - JSON Server Setup
