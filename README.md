@@ -3,8 +3,10 @@
 This repository contains a series of tutorials on Next.js, organized into four separate repositories for easy navigation and focused learning.
 
 ## Repositories
+<details>
 
-### 1. **Routing (Next.js)**
+<summary>  <h3>1. Routing (Next.js)</h3> </summary>
+
 - **Repository:** `nextjs-routing`
 - **Topics Covered:**
   - Page Routing
@@ -36,7 +38,11 @@ This repository contains a series of tutorials on Next.js, organized into four s
   - Intercepting Route
   - Parallel Intercepting Routes
 
-### 2. **Route Handlers**
+</details>
+<details>
+
+<summary> <h3> 2. Route Handlers </h3> </summary>
+
 - **Repository:** `nextjs-route-handlers`
 - **Topics Covered:**
   - Route Handlers
@@ -52,7 +58,12 @@ This repository contains a series of tutorials on Next.js, organized into four s
   - Caching in Route Handlers
   - Middleware
 
-### 3. **Rendering**
+</details>
+
+<details>
+
+<summary> <h3> 3. Rendering </h3> </summary>
+
 - **Repository:** `nextjs-rendering`
 - **Topics Covered:**
   - Server and Client Components
@@ -65,7 +76,12 @@ This repository contains a series of tutorials on Next.js, organized into four s
   - Client Component Placement
   - Interleaving Server and Client Components
 
-### 4. **Data Fetching**
+  </details>
+
+<details>
+
+<summary> <h3> 4.  Data Fetching </h3> </summary>
+
 - **Repository:** `nextjs-data-fetching`
 - **Topics Covered:**
   - Fetching Data with Server Components
@@ -77,7 +93,10 @@ This repository contains a series of tutorials on Next.js, organized into four s
   - Time-based Data Revalidation
   - Client-side Data Fetching
 
+</details>
+
 ---
+
 ## Using Submodules
 
 To use these repositories as submodules within a parent repository, follow these steps:
