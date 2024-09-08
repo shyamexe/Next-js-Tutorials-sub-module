@@ -3,12 +3,15 @@
 This repository contains a series of tutorials on Next.js, organized into four separate repositories for easy navigation and focused learning.
 
 ## Repositories
-<details>
 
-<summary>  <h3>1. Routing (Next.js)</h3> </summary>
+<h3>1. Routing (Next.js)</h3> 
 
 - **Repository:** `nextjs-routing`
-- **Topics Covered:**
+
+<details>
+
+<summary>  Topics Covered: </summary>
+
   - Page Routing
   - Nested Routing
   - Dynamic Routing
@@ -39,11 +42,13 @@ This repository contains a series of tutorials on Next.js, organized into four s
   - Parallel Intercepting Routes
 
 </details>
-<details>
 
-<summary> <h3> 2. Route Handlers </h3> </summary>
+<h3> 2. Route Handlers </h3>
 
 - **Repository:** `nextjs-route-handlers`
+<details>
+<summary>  Topics Covered: </summary>
+
 - **Topics Covered:**
   - Route Handlers
   - Handling GET Requests
@@ -60,12 +65,15 @@ This repository contains a series of tutorials on Next.js, organized into four s
 
 </details>
 
-<details>
+ 
 
-<summary> <h3> 3. Rendering </h3> </summary>
+<h3> 3. Rendering </h3>
 
 - **Repository:** `nextjs-rendering`
-- **Topics Covered:**
+<details>
+
+<summary>  Topics Covered: </summary>
+
   - Server and Client Components
   - Dynamic Rendering
   - Streaming
@@ -78,11 +86,13 @@ This repository contains a series of tutorials on Next.js, organized into four s
 
   </details>
 
-<details>
-
-<summary> <h3> 4.  Data Fetching </h3> </summary>
+<h3> 4.  Data Fetching </h3>
 
 - **Repository:** `nextjs-data-fetching`
+<details>
+
+<summary>  Topics Covered: </summary>
+
 - **Topics Covered:**
   - Fetching Data with Server Components
   - Loading and Error States
