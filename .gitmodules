@@ -1,0 +1,12 @@
+[submodule "next-js-routing"]
+	path = next-js-routing
+	url = https://github.com/shyamexe/next-js-routing
+[submodule "next-js-route-handlers"]
+	path = next-js-route-handlers
+	url = https://github.com/shyamexe/next-js-route-handlers
+[submodule "next-js-rendering"]
+	path = next-js-rendering
+	url = https://github.com/shyamexe/next-js-rendering
+[submodule "next-js-data-fetching"]
+	path = next-js-data-fetching
+	url = https://github.com/shyamexe/next-js-data-fetching
